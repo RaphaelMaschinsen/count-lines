@@ -9,7 +9,7 @@ A simple script that counts the lines of code within specified directory paths, 
 No installation is necessary. Simply clone or download this repository to your local machine.
 
 ```bash
-git clone https://github.com/RaphaelMaschinsen/count_lines.git
+git clone git@github.com:RaphaelMaschinsen/count-lines.git
 cd count_lines
 ```
 
