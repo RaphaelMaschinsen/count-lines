@@ -16,6 +16,8 @@ cd count_lines
 ## Usage
 The script can be run from the command line, providing the paths to the directories you want to analyze. Optionally, you can exclude specific file formats.
 
+**Important note:** Provide directory names without trailing slashes or backslashes.
+
 ```
 python count_lines.py <directory1> [<directory2> ...] [--exclude <.ext1> [<.ext2> ...]]
 ```
