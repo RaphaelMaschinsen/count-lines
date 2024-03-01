@@ -1,6 +1,5 @@
 # Count Lines Python Script
 
-## Overview
 A simple script that counts the lines of code within specified directory paths, including all subdirectories. It allows for excluding specific file formats from the count.
 
 ## Requirements
