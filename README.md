@@ -21,20 +21,21 @@ python count_lines.py <directory1> [<directory2> ...] [--exclude <.ext1> [<.ext2
 ```
 
 ### Example Usage
-- Count lines in a single directory:
-  ```
-  python count_lines.py /path/to/directory
- ```
+Count lines in a single directory:
 
-- Count lines in multiple directories:
-  ```
-  python count_lines.py /path/to/directory1 /path/to/directory2
-  ```
+```
+python count_lines.py /path/to/directory
+```
 
-- Count lines excluding specific file formats:
-  ```
-  python count_lines.py /path/to/directory --exclude .pyc .txt
-  ```
+Count lines in multiple directories:
+```
+python count_lines.py /path/to/directory1 /path/to/directory2
+```
+
+Count lines excluding specific file formats:
+```
+python count_lines.py /path/to/directory --exclude .pyc .txt
+```
 
 ### Example Output
 ```
