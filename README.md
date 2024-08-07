@@ -10,7 +10,7 @@ No installation is necessary. Simply clone or download this repository to your l
 
 ```bash
 git clone git@github.com:RaphaelMaschinsen/count-lines.git
-cd count_lines
+cd count-lines
 ```
 
 ## Usage
